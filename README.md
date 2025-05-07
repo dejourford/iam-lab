@@ -27,3 +27,6 @@ Demonstrate how to create a secure IAM user with limited permissions and enable 
 - IAM
 - Least Privilege
 - Multi-Factor Authentication (MFA)
+
+## 📷 Screenshots
+![Dashboard Users Image](../iam-lab/users.png)
