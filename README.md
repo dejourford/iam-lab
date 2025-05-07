@@ -30,3 +30,7 @@ Demonstrate how to create a secure IAM user with limited permissions and enable 
 
 ## 📷 Screenshots
 ![Dashboard Users Image](./users.png)
+![Dashboard Users Image](./console-access.png)
+![Dashboard Users Image](./password.png)
+![Dashboard Users Image](./password-reset.png)
+![Dashboard Users Image](./limited-access.png)
