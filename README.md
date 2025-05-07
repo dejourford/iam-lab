@@ -29,4 +29,4 @@ Demonstrate how to create a secure IAM user with limited permissions and enable 
 - Multi-Factor Authentication (MFA)
 
 ## 📷 Screenshots
-![Dashboard Users Image](../iam-lab/users.png)
+![Dashboard Users Image](./users.png)
