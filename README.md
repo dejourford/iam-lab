@@ -22,6 +22,7 @@ Demonstrate how to create a secure IAM user with limited permissions and enable 
 - How to define and apply least-privilege IAM policies
 - How MFA protects root accounts and users
 - IAM policies are written in JSON and can be customized by service/action
+- IAM user password can only be reset by the root user
 
 ## 🔒 Security Concepts Covered
 - IAM
